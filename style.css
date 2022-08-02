@@ -76,13 +76,9 @@ cursor: pointer;
  
 .contenedor_Principal{
        display: flex;
-       /* flex-direction: row; */
        flex-wrap: wrap;
        gap: 1rem;
        justify-content: center;
-       
-        /* flex-wrap: wrap ; */
-        /* justify-content: flex-start; */
         
       }
     .encabezado_posters{
